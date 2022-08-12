@@ -1,7 +1,7 @@
 # Planit Technical Assessment – Performance Test Challenge
 + **Applicant Name**: Jay B. Javier Jr
 + **Assessment Given**: 11-Aug-2022
-+ **Assessment Completed**: 11-Aug-2022
++ **Assessment Completed**: 12-Aug-2022
 + **Tool Used**: Apache JMeter
 + **Web Application**: https://duckduckgo.com/
 
